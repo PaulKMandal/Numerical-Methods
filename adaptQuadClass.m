@@ -1,3 +1,5 @@
+%This method was originally created by Dr. Laura Smith.
+
 function [APP, xnodes] = adaptQuadClass(f, a, b, tol, N)
 %%  Adaptive Quadrature Method with Trapezoidal Rule
 % INPUT:  Function f. Endpoints a,b.  Tolerance tol.  Limit N to number of levels.
